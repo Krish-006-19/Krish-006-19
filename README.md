@@ -34,12 +34,21 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krish-006-19&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" 
+       height="165" 
+  />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Krish-006-19&theme=tokyonight&hide_border=true&background=0D1117" 
+       height="165" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-006-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-006-19&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" 
+       height="160" 
+  />
 </p>
 
 ---
