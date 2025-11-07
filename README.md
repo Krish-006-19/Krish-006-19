@@ -9,14 +9,14 @@
 ### 🚀 About Me
 💻 I’m a self-taught developer and tech enthusiast.  
 🌱 Currently learning **Docker, DevOps, and Backend Development**.  
-💬 Ask me about **React, Firebase, and Node.js**.  
-⚡ Fun fact: I love building clone apps to sharpen my skills!
+💬 Ask me about **React, Firebase, Node.js & Full-stack web-apps**.  
+⚡ Fun fact: I love to sharpen my skills!
 
 ---
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,python,flask,django,mongodb,firebase,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,c++,redux,js,html,css,tailwind,nodejs,express,mongoose,mongodb,firebase,docker,git,github,vscode" />
 </p>
 
 ---
