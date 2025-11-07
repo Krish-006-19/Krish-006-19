@@ -1,44 +1,45 @@
-<!-- Profile Header -->
+<!-- 🌟 Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hey+👋%2C+I'm+Krish!;Full-Stack+Web+Developer;React+%7C+Node+%7C+Docker+%7C+Firebase;Building+Dreams+Into+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Hey+👋%2C+I'm+Krish!;Full-Stack+Web+Developer;React+⚡+Node+⚡+Docker+⚡+Firebase;Turning+Ideas+into+Impactful+Code+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/krish-006-19/krish-006-19/assets/your-banner.png" alt="cool banner" width="100%" />
+  <img src="https://github.com/krish-006-19/krish-006-19/blob/main/assets/banner.png" alt="Profile Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 ---
 
-
-
-<h3 align="center">🚀 A passionate full-stack developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+Docker+%7C+Firebase;Building+modern+web+apps;Always+learning+new+things!&font=Fira%20Code&center=true&width=600&height=45&color=00C9FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Modern+Web+Apps+✨;React+%7C+Node+%7C+Docker+%7C+Firebase;Always+Learning+and+Building!;Let's+Innovate+Together!&font=Fira%20Code&center=true&width=600&height=45&color=00E6FF&vCenter=true&size=22">
 </p>
 
 ---
 
 ### 🧠 **About Me**
-- 💻 Self-taught web developer & tech enthusiast  
-- ⚙️ Currently learning **DevOps & Cloud (Docker, Render, AWS basics)**  
-- 🧩 Love building **real-world full-stack projects**  
-- 💬 Ask me about **React, Firebase, Node.js, MongoDB**  
-- 🎯 Goal: To become a **Full-stack + DevOps Engineer**  
-- ⚡ Fun fact: I debug more than I code 😅  
+
+💻 Self-taught **Full-Stack Developer** with a love for clean UI & scalable backend  
+⚙️ Currently exploring **DevOps & Cloud (Docker, Render, AWS)**  
+🚀 Passionate about **real-world problem solving through code**  
+💬 Ask me about **React, Firebase, Node.js, MongoDB, or Docker**  
+🎯 Goal: Become a **Full-Stack + DevOps Engineer**  
+⚡ Fun fact: _I debug more than I code 😅_
 
 ---
 
 ### 🧰 **Languages & Tools**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,nodejs,express,mongodb,mongoose,firebase,docker,git,github,vscode,postman,c,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css,nodejs,express,mongodb,mongoose,firebase,docker,git,github,vscode,postman,cpp,python,linux&perline=10&theme=dark" />
 </p>
 
 ---
 
-### 📈 **GitHub Stats**
+### 📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Krish-006-19&theme=tokyonight&hide_border=true&background=0D1117" height="165" />
 </p>
 
@@ -49,21 +50,29 @@
 ---
 
 ### 🌐 **Connect With Me**
+
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://krish-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
 </p>
 
 ---
 
-### 🏁 **Let’s Code and Build Cool Stuff Together!**
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2575fc,100:6a11cb)
+### 🏁 **Let’s Code & Build Cool Stuff Together!**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,2,5,30,60,100" />
+</p>
