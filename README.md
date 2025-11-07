@@ -30,13 +30,6 @@
 
 ---
 
-### 🎨 **Design & Dev Environment**
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM0b2psMGF2Y2QwZ3FrZDR3N3lzM3U1cTN3NmN4NWh1ZmNza3ozMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="500"/>
-</p>
-
----
-
 ### 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
