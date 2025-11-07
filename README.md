@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/krish-006-19/krish-006-19/blob/main/assets/banner.png" alt="Profile Banner" width="100%" style="border-radius:12px;" />
+  <img src="https://i.imgur.com/5A6nFvG.png" alt="Profile Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 ---
