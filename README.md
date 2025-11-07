@@ -1,5 +1,11 @@
 <!-- Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋%2C%20I'm%20Krish!&fontAlign=40&fontColor=fff&fontSize=50&color=0:6a11cb,100:2575fc&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Docker%20%7C%20Firebase&descAlign=40&descAlignY=60)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hey+👋%2C+I'm+Krish!;Full-Stack+Web+Developer;React+%7C+Node+%7C+Docker+%7C+Firebase;Building+Dreams+Into+Code+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/krish-006-19/krish-006-19/assets/your-banner.png" alt="cool banner" width="100%" />
+</p>
 
 ---
 
