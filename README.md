@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Modern+Web+Apps+✨;React+%7C+Node+%7C+Docker+%7C+Firebase;Always+Learning+and+Building!;Let's+Innovate+Together!&font=Fira%20Code&center=true&width=600&height=45&color=00E6FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+Docker+%7C+Firebase;Building+modern+web+apps;Always+learning+new+things!&font=Fira%20Code&center=true&width=600&height=45&color=00C9FF&vCenter=true&size=22">
 </p>
 
 ---
