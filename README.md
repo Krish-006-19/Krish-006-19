@@ -26,7 +26,7 @@
 ### 🧰 **Languages & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css,nodejs,express,mongodb,mongoose,firebase,docker,git,github,vscode,postman,cpp,python,linux&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css,nodejs,express,mongoose,firebase,docker,git,github,postman,cpp,linux&perline=10&theme=dark" />
 </p>
 
 ---
