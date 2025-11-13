@@ -1,5 +1,5 @@
 <!-- 🌟 Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋%2C%20I'm%20Krish!&fontAlign=40&fontColor=fff&fontSize=50&color=0:6a11cb,100:2575fc&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20Docker%20%7C%20Firebase&descAlign=40&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋%2C%20I'm%20Krish!&fontAlign=40&fontColor=fff&fontSize=50&color=0:6a11cb,100:2575fc&desc=%20%7C%20Express%20%7C%20React%20%7C%20Docker%20%7C%20FMONGOOSE&descAlign=40&descAlignY=60)
 
 
 ---
