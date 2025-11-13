@@ -1,6 +1,5 @@
 <!-- 🌟 Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋%2C%20I'm%20Krish!&fontAlign=40&fontColor=fff&fontSize=50&color=0:6a11cb,100:2575fc&desc=%20%7C%20Express%20%7C%20React%20%7C%20Docker%20%7C%20FMONGOOSE&descAlign=40&descAlignY=60)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋,%20I'm%20Krish!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=55&fontWeight=700&color=0:00c6ff,100:0072ff&desc=💻%20|%20Express%20%7C%20React%20%7C%20Docker%20%7C%20Mongoose%20|&descAlign=50&descAlignY=70&descSize=20)
 
 ---
 
