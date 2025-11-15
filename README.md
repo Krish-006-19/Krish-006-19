@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,nodejs,express,mongodb,mysql,firebase,docker,git,github,postman,cpp,linux&perline=10&theme=dark" />
 </p>
 
----
-
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/krish-ramena-113508311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
