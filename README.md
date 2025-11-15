@@ -16,7 +16,7 @@
 💻 Self-taught **Full-Stack Developer** with a love for clean UI & scalable backend  
 ⚙️ Currently exploring **DevOps & Web Development (MERN)**  
 🚀 Passionate about **real-world problem solving through code**  
-💬 Ask me about **React, Firebase, Node.js, MongoDB, or Docker**  
+💬 Ask me about **React, Node.js, MongoDB, or Docker**  
 🎯 Goal: Become a **Efficient Full-Stack + DevOps Engineer**  
 ⚡ Fun fact: _I debug more than I code 😅_
 
@@ -32,14 +32,14 @@
 
 ### 🌐 **Connect With Me**
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/krish-ramena-113508311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krish.ramena24@vit.edu">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
