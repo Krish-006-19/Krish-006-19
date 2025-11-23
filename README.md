@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%7C+Express+%7C+Docker+%7C+Mongoose;Building+modern+web+apps;Always+learning+new+things!&font=Fira%20Code&center=true&width=600&height=45&color=00C9FF&vCenter=true&size=22">
 </p>
+
 ---
 
 ### 🧠 **About Me**
