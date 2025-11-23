@@ -1,14 +1,11 @@
 <!-- 🌟 Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋,%20I'm%20Krish!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=55&fontWeight=700&color=0:00c6ff,100:0072ff&desc=💻%20|%20Express%20%7C%20React%20%7C%20Docker%20%7C%20Mongoose%20|&descAlign=50&descAlignY=70&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋,%20I'm%20Krish!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=55&fontWeight=700&color=0:00c6ff,100:0072ff&desc=💻%20|%20Express%20%7C%20React%20%7C%20Docker%20%7C%20Mongoose%20|&descAlign=50&descAlignY=70&descSize=20) 
 
 ---
-
 <h3 align="center">🚀 Passionate Full-Stack Developer from India 🇮🇳</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%7C+Express+%7C+Docker+%7C+Mongoose;Building+modern+web+apps;Always+learning+new+things!&font=Fira%20Code&center=true&width=600&height=45&color=00C9FF&vCenter=true&size=22">
 </p>
-
 ---
 
 ### 🧠 **About Me**
