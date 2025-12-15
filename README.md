@@ -12,9 +12,9 @@
 ### 🧠 **About Me**
 
 💻 Self-taught **Full-Stack Developer** with a love for clean UI & scalable backend  
-⚙️ Currently exploring **DevOps & Web Development (MERN)**  
+⚙️ Currently exploring **DevOps, AI & Web Development (MERN)**  
 🚀 Passionate about **real-world problem solving through code**  
-💬 Ask me about **React, Node.js, MongoDB, or Docker**  
+💬 Ask me about **React, Express, MongoDB, or Docker**  
 🎯 Goal: Become a **Efficient Full-Stack + DevOps Engineer**  
 ⚡ Fun fact: _I debug more than I code 😅_
 
