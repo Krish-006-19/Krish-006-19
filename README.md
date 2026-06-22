@@ -67,7 +67,7 @@ public:
 
 ---
 
-# ⚔️ Engineering Interests
+# Engineering Interests
 
 ```yaml
 Backend:
@@ -113,7 +113,7 @@ Computer Science:
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
