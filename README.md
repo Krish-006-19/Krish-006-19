@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:38bdf8&text=Krish&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Backend%20Engineering%20|%20DSA&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:38bdf8&text=Krish&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Backend%20Engineering%20•%20DSA&descAlignY=60" />
 
-# ⚡ Krish
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Backend+Engineering+Enthusiast;Data+Structures+%26+Algorithms;Building+Projects+That+Actually+Work;Clean+Architecture+%7C+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Building+Projects+That+Actually+Work;Clean+Architecture+%7C+Scalable+Systems;Data+Structures+%26+Algorithms" />
 
 <br>
 
@@ -13,27 +13,47 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Krish-006-19&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Engineering-38bdf8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-React%20•%20Node%20•%20MongoDB-0f172a?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```cpp
 class Krish {
 public:
     string role = "Full Stack Developer";
-    string frontend = "React + Vite + Tailwind";
-    string backend = "Node.js + Express";
-    string database = "MongoDB";
-    string language = "JavaScript, Python, C++";
 
-    void focus() {
+    vector<string> frontend = {
+        "React",
+        "Vite",
+        "TailwindCSS"
+    };
+
+    vector<string> backend = {
+        "Node.js",
+        "Express",
+        "REST APIs"
+    };
+
+    vector<string> databases = {
+        "MongoDB"
+    };
+
+    vector<string> languages = {
+        "JavaScript",
+        "Python",
+        "C++"
+    };
+
+    void currentFocus() {
         cout << "Backend Engineering\n";
-        cout << "REST API Design\n";
-        cout << "Application Security\n";
-        cout << "Database Systems\n";
+        cout << "API Security\n";
+        cout << "Database Design\n";
+        cout << "System Reliability\n";
         cout << "Data Structures & Algorithms\n";
     }
 };
@@ -41,7 +61,7 @@ public:
 
 ---
 
-## 🧠 Current Tech Stack
+# 🧠 Tech Stack
 
 <div align="center">
 
@@ -51,24 +71,25 @@ public:
 
 ---
 
-## ⚔️ Engineering Interests
+# ⚔️ Engineering Interests
 
 ```yaml
-backend:
-  - REST APIs
+Backend:
+  - REST API Design
   - Authentication & Authorization
-  - MongoDB
   - Security
   - Idempotency
   - Database Design
-
-frontend:
-  - React
-  - Responsive UI
-  - State Management
+  - Error Handling
   - Performance Optimization
 
-computer_science:
+Frontend:
+  - React Ecosystem
+  - Responsive Design
+  - State Management
+  - Component Architecture
+
+Computer Science:
   - Data Structures
   - Algorithms
   - System Design
@@ -81,21 +102,21 @@ computer_science:
 
 ## 📈 Market For Dummies
 
-A full-stack stock market simulation platform.
+A full-stack stock market simulation platform built around portfolio management and trading workflows.
 
 ### Features
 
-* Authentication
+* User Authentication
 * Portfolio Management
 * Buy / Sell Transactions
 * Transaction History
 * Real Market Data
 * Leaderboards
-* Session Handling
+* Session Management
 * Secure REST APIs
 * Portfolio Analytics
 
-### Tech Stack
+### Tech
 
 ```txt
 React • Vite • Node.js • Express • MongoDB
@@ -105,14 +126,17 @@ React • Vite • Node.js • Express • MongoDB
 
 ## 💼 LinkedIn Lite Clone
 
+Professional networking platform clone focused on modern frontend architecture.
+
 ### Features
 
 * Firebase Authentication
 * Redux State Management
 * Responsive Design
-* Modern React Architecture
+* Reusable Components
+* Modern React Patterns
 
-### Tech Stack
+### Tech
 
 ```txt
 React • Firebase • Redux • TailwindCSS
@@ -122,14 +146,16 @@ React • Firebase • Redux • TailwindCSS
 
 ## 📷 Instagram Clone
 
+Social media application focused on reusable UI architecture and responsive layouts.
+
 ### Features
 
-* Social Media Feed
-* Responsive Layouts
-* Modern React Components
-* Reusable UI Architecture
+* Modern Feed Design
+* Responsive UI
+* Component-Based Architecture
+* Clean React Patterns
 
-### Tech Stack
+### Tech
 
 ```txt
 React • TailwindCSS
@@ -139,16 +165,18 @@ React • TailwindCSS
 
 ## 🎓 Student Management System
 
+A DSA-focused project built in C++ using linked lists and strict validation systems.
+
 ### Features
 
-* Linked List Data Storage
 * CRUD Operations
+* Linked List Storage
 * Duplicate Prevention
 * Email Validation
-* Roll Number Validation
 * Mobile Validation
+* Roll Number Validation
 
-### Tech Stack
+### Tech
 
 ```txt
 C++ • DSA • Linked Lists
@@ -190,21 +218,9 @@ C++ • DSA • Linked Lists
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Krish-006-19/Krish-006-19/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Krish-006-19/Krish-006-19/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
----
-
-# ⏱️ Coding Philosophy
-
-> Clean architecture beats clever code.
->
-> Reliability beats complexity.
->
-> Understanding beats copy-pasting.
->
-> Build. Break. Fix. Repeat.
 
 ---
 
@@ -217,12 +233,24 @@ C++ • DSA • Linked Lists
 
 ✓ MongoDB optimization
 
-✓ Advanced DSA
-
 ✓ Full-stack scalability
+
+✓ Advanced Data Structures & Algorithms
 
 ✓ System Design fundamentals
 ```
+
+---
+
+# 💡 Development Principles
+
+> Clean architecture beats clever code.
+>
+> Reliability beats complexity.
+>
+> Understanding beats copy-pasting.
+>
+> Build. Break. Fix. Repeat.
 
 ---
 
@@ -233,6 +261,19 @@ C++ • DSA • Linked Lists
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </div>
+
+---
+
+# 📌 Currently Working On
+
+```txt
+→ Full-Stack Applications
+→ Backend Reliability
+→ API Security
+→ Database Design
+→ Advanced DSA
+→ System Design
+```
 
 ---
 
