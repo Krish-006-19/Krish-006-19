@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-006-19&theme=algolia&no-frame=true&margin-w=10&column=7" />
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Krish-006-19&style=for-the-badge&color=blueviolet" />
 <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-38bdf8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stack-React%20•%20Node%20•%20MongoDB-0f172a?style=for-the-badge" />
@@ -209,16 +205,6 @@ C++ • DSA • Linked Lists
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-006-19&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Krish-006-19/Krish-006-19/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
