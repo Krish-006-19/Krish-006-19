@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 ```cpp
 class Krish {
@@ -57,7 +57,7 @@ public:
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Computer Science:
 ```
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Computer Science:
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```txt
 ✓ Production-grade backend systems
@@ -141,7 +141,7 @@ Computer Science:
 
 ---
 
-# 💡 Development Principles
+# Development Principles
 
 > Clean architecture beats clever code.
 >
@@ -153,7 +153,7 @@ Computer Science:
 
 ---
 
-# 💭 Random Developer Quote
+# Random Developer Quote
 
 <div align="center">
 
@@ -163,11 +163,11 @@ Computer Science:
 
 ---
 
-# 📌 Currently Working On
+# Currently Working On
 
 ```txt
-→ Full-Stack Applications
 → Backend Reliability
+→ AI Integrations
 → API Security
 → Database Design
 → Advanced DSA
@@ -178,6 +178,6 @@ Computer Science:
 
 <div align="center">
 
-### ⚡ Build • Learn • Ship • Repeat
+### Build • Learn • Ship • Repeat
 
 </div>
