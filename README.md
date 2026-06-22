@@ -61,7 +61,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,mongodb,mongoose,python,fastapi,firebase,redux,tailwind,git,github,cpp" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,mongodb,docker,python,fastapi,firebase,redux,tailwind,git,github,cpp" />
 
 </div>
 
