@@ -1,42 +1,243 @@
-<!-- 🌟 Profile Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20👋,%20I'm%20Krish!&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=55&fontWeight=700&color=0:00c6ff,100:0072ff&desc=💻%20|%20Express%20%7C%20React%20%7C%20Docker%20%7C%20MongoDB%20|&descAlign=50&descAlignY=70&descSize=20) 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:38bdf8&text=Krish&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Backend%20Engineering%20|%20DSA&descAlignY=60" />
+
+# ⚡ Krish
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Backend+Engineering+Enthusiast;Data+Structures+%26+Algorithms;Building+Projects+That+Actually+Work;Clean+Architecture+%7C+Scalable+Systems" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krish-006-19&theme=algolia&no-frame=true&margin-w=10&column=7" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Krish-006-19&style=for-the-badge&color=blueviolet" />
+
+</div>
 
 ---
-<h3 align="center">🚀 Passionate Full-Stack Developer from India 🇮🇳</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;React+%7C+Express+%7C+Docker+%7C+MongoDB;Building+modern+web+apps;Always+learning+new+things!&font=Fira%20Code&center=true&width=600&height=45&color=00C9FF&vCenter=true&size=22">
-</p>
+
+## 🚀 About Me
+
+```cpp
+class Krish {
+public:
+    string role = "Full Stack Developer";
+    string frontend = "React + Vite + Tailwind";
+    string backend = "Node.js + Express";
+    string database = "MongoDB";
+    string language = "JavaScript, Python, C++";
+
+    void focus() {
+        cout << "Backend Engineering\n";
+        cout << "REST API Design\n";
+        cout << "Application Security\n";
+        cout << "Database Systems\n";
+        cout << "Data Structures & Algorithms\n";
+    }
+};
+```
 
 ---
 
-### 🧠 **About Me**
+## 🧠 Current Tech Stack
 
-💻 Self-taught **Full-Stack Developer** with a love for clean UI & scalable backend  
-⚙️ Currently exploring **DevOps, AI & Web Development (MERN)**  
-🚀 Passionate about **real-world problem solving through code**  
-💬 Ask me about **React, Express, MongoDB, or Docker**  
-🎯 Goal: Become a **Efficient Full-Stack + DevOps Engineer**  
-⚡ Fun fact: _I debug more than I code 😅_
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,express,mongodb,python,django,flask,firebase,redux,tailwind,git,github,cpp,vscode" />
+
+</div>
+
+---
+
+## ⚔️ Engineering Interests
+
+```yaml
+backend:
+  - REST APIs
+  - Authentication & Authorization
+  - MongoDB
+  - Security
+  - Idempotency
+  - Database Design
+
+frontend:
+  - React
+  - Responsive UI
+  - State Management
+  - Performance Optimization
+
+computer_science:
+  - Data Structures
+  - Algorithms
+  - System Design
+  - Software Engineering
+```
 
 ---
 
-### 🧰 **Languages & Tools**
+# 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,nodejs,express,mongodb,mysql,firebase,docker,git,github,postman,cpp,linux&perline=10&theme=dark" />
-</p>
+## 📈 Market For Dummies
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/krish-ramena-113508311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:krish.ramena24@vit.edu">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p> -->
+A full-stack stock market simulation platform.
+
+### Features
+
+* Authentication
+* Portfolio Management
+* Buy / Sell Transactions
+* Transaction History
+* Real Market Data
+* Leaderboards
+* Session Handling
+* Secure REST APIs
+* Portfolio Analytics
+
+### Tech Stack
+
+```txt
+React • Vite • Node.js • Express • MongoDB
+```
 
 ---
-![demo](https://camo.githubusercontent.com/fde75d5de9c3c4f0ecda42f06636144e0d517bb03b6b8714852b9464cd44e9b4/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f31336432633735336565643932393039376363313362626231643365343832632f363734343138303033323737363666632d39362f733139323078313038302f666536376636653766656161663638326161383463643032383063626234656564323465396465612e676966)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,2,5,30,60,100" />
-</p>
+
+## 💼 LinkedIn Lite Clone
+
+### Features
+
+* Firebase Authentication
+* Redux State Management
+* Responsive Design
+* Modern React Architecture
+
+### Tech Stack
+
+```txt
+React • Firebase • Redux • TailwindCSS
+```
+
+---
+
+## 📷 Instagram Clone
+
+### Features
+
+* Social Media Feed
+* Responsive Layouts
+* Modern React Components
+* Reusable UI Architecture
+
+### Tech Stack
+
+```txt
+React • TailwindCSS
+```
+
+---
+
+## 🎓 Student Management System
+
+### Features
+
+* Linked List Data Storage
+* CRUD Operations
+* Duplicate Prevention
+* Email Validation
+* Roll Number Validation
+* Mobile Validation
+
+### Tech Stack
+
+```txt
+C++ • DSA • Linked Lists
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Krish-006-19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-006-19&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-006-19&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-006-19&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Krish-006-19/Krish-006-19/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# ⏱️ Coding Philosophy
+
+> Clean architecture beats clever code.
+>
+> Reliability beats complexity.
+>
+> Understanding beats copy-pasting.
+>
+> Build. Break. Fix. Repeat.
+
+---
+
+# 🎯 Current Focus
+
+```txt
+✓ Production-grade backend systems
+
+✓ Secure API architecture
+
+✓ MongoDB optimization
+
+✓ Advanced DSA
+
+✓ Full-stack scalability
+
+✓ System Design fundamentals
+```
+
+---
+
+# 💭 Random Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Build • Learn • Ship • Repeat
+
+</div>
