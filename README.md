@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:38bdf8&text=Krish&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Backend%20Engineering%20•%20DSA&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:38bdf8&text=Krish&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20•%20Backend%20Engineering%20•%20DSA&descAlignY=60" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Building+Projects+That+Actually+Work;Clean+Architecture+%7C+Scalable+Systems;Data+Structures+%26+Algorithms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+Engineering+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Building+Projects+That+Actually+Work;Clean+Architecture+%7C+Scalable+Systems;Data+Structures+%26+Algorithms" />
 
 <br>
 
